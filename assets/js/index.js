@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     tiendaBuy.addEventListener('click', function () {
         console.log('Accediendo a la tienda');
-        window.open('https://calcifer-roleplay.tebex.io/', '_blank');
+        window.open('https://calciferrp.tebex.io/', '_blank');
     });
 });
 
